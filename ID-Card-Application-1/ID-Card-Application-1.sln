@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ID-Card-Application-1", "ID-Card-Application-1\ID-Card-Application-1.pyproj", "{48EA9616-7BCB-4AF6-ADD6-EDF204D8633C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48EA9616-7BCB-4AF6-ADD6-EDF204D8633C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48EA9616-7BCB-4AF6-ADD6-EDF204D8633C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3F18A1A-2FA6-49F3-91D6-50F9D8C2178F}
+	EndGlobalSection
+EndGlobal
